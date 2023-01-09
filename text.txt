@@ -1,2 +1,4 @@
 I made my first repo in git hub.
 Is that rigt to work with it hub.
+We are texting in notepad.
+ 
